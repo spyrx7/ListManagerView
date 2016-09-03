@@ -1,0 +1,2 @@
+# ListManagerView
+这个控件主要是基于ListView，GridView还有SwipeRefreshLayout设计的一个提高开发效率的综合性列表控件
